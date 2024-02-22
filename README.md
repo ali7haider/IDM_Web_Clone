@@ -1,2 +1,2 @@
-# IDM_Web_Clone
-This website is a clone of IDM (Internet Download Manager) made with HTML and CSS. It looks just like the real IDM website, but it's my own version.
+# IDM (Internet Download Manager) Web Clone
+This website is a clone of IDM (Internet Download Manager) made with HTML and CSS. It looks just like the real IDM website, but it's my own version. The website is designed to work well on all kinds of devices, whether you're using a computer, a tablet, or a phone. It changes its layout and design to fit the screen size, so you can easily access it no matter what device you're using.
